@@ -1,0 +1,4 @@
+addr: ":9999"
+nacos:
+  endpoint:
+    - addr: http://192.168.9.150:8848
